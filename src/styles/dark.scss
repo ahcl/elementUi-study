@@ -1,0 +1,43 @@
+$color-primary: #424f63; //#20a0ff;#18c79c;#6bc5a4;
+$color-primary-hover: #4db3ff; //#4db3ff;#18c79c
+
+.container {
+	.header{
+		.logo{
+			background: $color-primary !important;
+		}
+	}
+	.main{
+		.el-menu{
+			background: $color-primary !important;
+			.el-menu-item.is-active {
+    			color: #6bc5a4 !important;
+			}
+			.el-submenu{
+				color: #fff;
+				.el-menu-item{
+					color: #fff
+				}
+				.el-menu-item:hover, .el-submenu__title:hover{
+					color: #65cea7;
+    				background: #2a323f;
+				}
+				& .el-menu{
+					background-color: #353f4f;
+				}
+
+			}
+			.el-submenu.is-opened{
+				color: #6bc5a4;
+				
+			}
+			.el-menu{
+				color: #65cea7;
+    			background: #2a323f;
+			}
+			
+		}
+		
+	}
+}
+

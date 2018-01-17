@@ -1,0 +1,10 @@
+[
+    {"value":535, "name":"电力11"},
+    {"value":310, "name":"柴油"},
+    {"value":274, "name":"汽油1"},
+    {"value":235, "name":"天然气1"},
+    {"value":400, "name":"CNG1"},
+    {"value":450, "name":"LPG1"},
+    {"value":250, "name":"LNG1"},
+    {"value":370, "name":"重油1"}
+]

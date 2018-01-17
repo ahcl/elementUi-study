@@ -1,0 +1,9 @@
+[
+    {"value":600,"name":"汽油"},
+    {"value":150,"name":"柴油"},
+    {"value":200,"name":"CNG"},
+    {"value":450,"name":"LPG"},
+    {"value":542,"name":"LNG"},
+    {"value":102,"name":"重油"},
+    {"value":360,"name":"电力"}
+]
