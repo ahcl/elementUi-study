@@ -5,4 +5,5 @@ element UI的使用与学习
 
 gif第一次转换，有点不清楚，之后知道办法会放清晰图~
 
-![http://github.com/ahcl/elementUi-study/blob/master/image/mv.gif]
+ ![image](https://github.com/ahcl/elementUi-study/blob/master/image/mv.gif)
+
